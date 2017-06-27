@@ -1,0 +1,22 @@
+{
+  "name": "upload-async",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.3.0",
+    "path": "^0.12.7",
+    "koa-static": "^3.0.0",
+    "koa-views": "^6.0.2",
+    "koa-convert": "^1.2.0",
+    "fs": "^0.0.1-security",
+    "os": "^0.1.1",
+    "util": "^0.10.3",
+    "busboy": "^0.2.14"
+  }
+}
